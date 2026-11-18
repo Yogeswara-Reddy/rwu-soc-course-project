@@ -1,0 +1,25 @@
+# Simulation waveforms
+*.vcd
+*.fst
+*.wdb
+
+# Vivado and XSim generated files
+.Xil/
+xsim.dir/
+*.jou
+*.log
+
+# Build output and local settings
+/build/
+.vscode/
+.idea/
+.env
+
+
+# Vivado project output directories
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
